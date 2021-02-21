@@ -1,0 +1,3 @@
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=leonardokawamura_integracao-continua&metric=bugs)](https://sonarcloud.io/dashboard?id=leonardokawamura_integracao-continua)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=leonardokawamura_integracao-continua&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=leonardokawamura_integracao-continua)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=leonardokawamura_integracao-continua&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=leonardokawamura_integracao-continua)
